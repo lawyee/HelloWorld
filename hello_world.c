@@ -2,6 +2,6 @@
 //change by luoyi branch
 int main()
 {
-	printf("Hello World \n");
+	printf("Hello World Ok! \n");
 	return 0;
 }
